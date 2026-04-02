@@ -1,4 +1,4 @@
 fun main() {
     generateSequence(::readlnOrNull)
-        .forEach { println( it.split(" ").map { it.toInt()}.sumOf { it } ) }
+        .forEach { println( it.split(" ").sumOf { it.toInt() } ) }
 }
