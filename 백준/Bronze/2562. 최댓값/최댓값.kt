@@ -2,17 +2,9 @@ import kotlin.io.println
 import kotlin.math.max
 
 fun main() {
-    var mm = 0
-    var al = 0
+    val lst = listOf(1, 2, 3, 4)
+    val numlist = List(9) { readln().toInt() }
 
-    for (i in 1..9) {
-        val num = readln().toInt()
-
-        if (num > mm) {
-            mm = max(mm, num)
-            al = i
-        }
-    }
-    println(mm)
-    println(al)
+    println(numlist.max())
+    println(numlist.indexOf(numlist.max()) + 1)
 }
