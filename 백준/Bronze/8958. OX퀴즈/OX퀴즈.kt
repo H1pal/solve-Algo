@@ -5,11 +5,11 @@ fun main(){
     repeat(cs) {
         val ox = readln()
 
-        for (i in ox.indices) {
-            if (ox[i] == 'O') {
-                total += ++cnt
+        for (i in ox) {
+            when (i) {
+                'O' -> total += ++cnt
+                else -> cnt = 0
             }
-            else cnt = 0
         }
         println(total)
         total = 0
