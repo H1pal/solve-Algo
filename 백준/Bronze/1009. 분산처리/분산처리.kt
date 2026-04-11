@@ -6,7 +6,7 @@ fun main() {
         .take(cs)
         .forEach { (num, amo) -> repeat(amo) { total = (total * num) % 10 }
             .also {
-                println(if (total % 10 != 0) total % 10 else 10) }; total = 1 }
+                println(if (total != 0) total else 10) }; total = 1 }
 
 //    repeat(cs) {
 //        val (num, amo) =  readln().split(" ").map { it.toInt() }
