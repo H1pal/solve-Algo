@@ -15,15 +15,18 @@ Contains topicwise list of solved problems.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/1614-maximum-nesting-depth-of-the-parentheses) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0150-evaluate-reverse-polish-notation) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/1614-maximum-nesting-depth-of-the-parentheses) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/1614-maximum-nesting-depth-of-the-parentheses) | Easy |
 ## Math
 | Problem Name | Difficulty |
