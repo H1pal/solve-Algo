@@ -1,13 +1,11 @@
 class Solution {
 public:
     vector<int> maxDepthAfterSplit(string seq) {
-      const int len = seq.length();
-      vector<int> answer(len, 0);
+      vector<int> answer;
       bool isA = false;
-      for (int i = 0;i < len;i++) {
-        const char ch = seq[i];
+      for (const char ch: seq) {
         if (ch == '(') isA = !isA;
-        answer[i] += isA;
+        answer.push_back(isA);
         if (ch == ')') isA = !isA;
       }
       return answer;
