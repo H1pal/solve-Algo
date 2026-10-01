@@ -12,9 +12,11 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/0001-two-sum) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0003-longest-substring-without-repeating-characters) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0003-longest-substring-without-repeating-characters) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/1614-maximum-nesting-depth-of-the-parentheses) | Easy |
 ## Stack
@@ -41,4 +43,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0002-add-two-numbers) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0003-longest-substring-without-repeating-characters) | Medium |
 <!---LeetCode Topics End-->
