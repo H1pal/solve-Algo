@@ -17,6 +17,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0003-longest-substring-without-repeating-characters) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0005-longest-palindromic-substring) | Medium |
 | [0020-valid-parentheses](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/0020-valid-parentheses) | Easy |
 | [0022-generate-parentheses](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0022-generate-parentheses) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |
@@ -55,9 +56,18 @@ Contains topicwise list of solved problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0005-longest-palindromic-substring) | Medium |
 | [0022-generate-parentheses](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0022-generate-parentheses) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0022-generate-parentheses) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0005-longest-palindromic-substring) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0005-longest-palindromic-substring) | Medium |
 <!---LeetCode Topics End-->
