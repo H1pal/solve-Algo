@@ -23,6 +23,7 @@ Contains topicwise list of solved problems.
 | [0678-valid-parenthesis-string](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0678-valid-parenthesis-string) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/1614-maximum-nesting-depth-of-the-parentheses) | Easy |
+| [1768-merge-strings-alternately](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/1768-merge-strings-alternately) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0005-longest-palindromic-substring) | Medium |
+| [1768-merge-strings-alternately](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/1768-merge-strings-alternately) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
