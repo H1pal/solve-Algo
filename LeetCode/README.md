@@ -50,10 +50,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0002-add-two-numbers) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/0021-merge-two-sorted-lists) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0002-add-two-numbers) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/0021-merge-two-sorted-lists) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
