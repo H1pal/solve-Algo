@@ -9,11 +9,13 @@ Contains topicwise list of solved problems.
 | [0001-two-sum](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/0001-two-sum) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0150-evaluate-reverse-polish-notation) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/1431-kids-with-the-greatest-number-of-candies) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/2913-subarrays-distinct-element-sum-of-squares-i) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/0001-two-sum) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0003-longest-substring-without-repeating-characters) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/2913-subarrays-distinct-element-sum-of-squares-i) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +85,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0678-valid-parenthesis-string) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/2913-subarrays-distinct-element-sum-of-squares-i) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/2913-subarrays-distinct-element-sum-of-squares-i) | Easy |
 <!---LeetCode Topics End-->
