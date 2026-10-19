@@ -9,6 +9,7 @@ Contains topicwise list of solved problems.
 | [0001-two-sum](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/0001-two-sum) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Medium/0150-evaluate-reverse-polish-notation) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/1431-kids-with-the-greatest-number-of-candies) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/2089-find-target-indices-after-sorting-array) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/2913-subarrays-distinct-element-sum-of-squares-i) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -93,4 +94,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/2913-subarrays-distinct-element-sum-of-squares-i) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/2089-find-target-indices-after-sorting-array) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/2089-find-target-indices-after-sorting-array) | Easy |
 <!---LeetCode Topics End-->
