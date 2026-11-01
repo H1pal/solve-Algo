@@ -102,4 +102,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/C%2B%2B/Easy/2089-find-target-indices-after-sorting-array) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/H1pal/solve-Algo/tree/main/LeetCode/MySQL/Easy/0175-combine-two-tables) | Easy |
 <!---LeetCode Topics End-->
